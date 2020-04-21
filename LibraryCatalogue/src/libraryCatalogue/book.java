@@ -4,7 +4,7 @@ public class book {
 	String title;
 	int pageCount;
 	int ISBN;
-	boolean isCheckedOut;	//whether the book is checked out or not
+	boolean isCheckedOut;	//whether the book is checked out or not....
 	int dayCheckedOut=-1;
 	
 	//constructor
